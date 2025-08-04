@@ -15,7 +15,7 @@ The dataset contains real-world hotel booking data, including:
 - 💲 **Pricing information** (Daily rate, Discounts, Cancellation costs)  
 - 📅 **Time-based trends** (Seasons, Weekends, Holidays)  
 - 🌍 **Location & Hotel types** (Resort vs. City hotels)
-- 🔗 **Dataset Link:** [Click Here to Access the Dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data)
+  
 
 ## 🛠️ Technologies Used  
 🔹 **Python** – Data Processing & Analysis  
@@ -44,10 +44,6 @@ If you found this project insightful, feel free to ⭐ the repository and connec
 
 ---
 
-### 🔗 **Connect with Me**  
-📧 **Email:** [ravishrivastav.da@gmail.com](mailto:ravishrivastav.da@gmail.com)  
-💼 **LinkedIn:** [Ravi K Shrivastav](https://www.linkedin.com/in/ravi-k-shrivastav-5859b0246/)  
-🌐 **GitHub:** [Ravi10300](https://github.com/Ravi10300)
 
  
 
